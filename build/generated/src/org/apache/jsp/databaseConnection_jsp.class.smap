@@ -1,0 +1,12 @@
+SMAP
+databaseConnection_jsp.java
+JSP
+*S JSP
+*F
++ 0 databaseConnection.jsp
+databaseConnection.jsp
+*L
+5,15:47
+20,12:63
+31,4:75
+*E
